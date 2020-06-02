@@ -1,6 +1,6 @@
 package algorithms.implementation;
 
-public class NEW2 {
+public class CountingValley {
 
     static int countingValleys(int n, String s) {
 
